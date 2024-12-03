@@ -1,5 +1,6 @@
 #include "stdio.h"
 #include "stdlib.h"
+#include"math.h"
 
 // Define the structure of a node
 struct Node {
