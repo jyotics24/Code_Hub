@@ -8,7 +8,7 @@ print(l2)
 l3=l1+l2
 print()
 print(l3)
-print("End")
 print(" This is the Update")
 print(" Add a new line for auto update ")
 print(" ADD 2nd update")
+print("End ")
